@@ -1,2 +1,2 @@
-//Q
 eval(process.env.Q)
+eval
